@@ -20,7 +20,20 @@
             "nl-NL": "Geel raster",
             "pt-BR": "Malha (amarela)",
             "ja-JP": "グリッド (黄)",
-            "fr-FR": "Grille (jaune)"
+            "fr-FR": "Grille (jaune)",
+            "ca-ES": "Quadrícula (groga)",
+            "cs-CZ": "Mřížka (žlutá)",
+            "da-DK": "Gitter (gul)",
+            "es-ES": "Reja (amarillo)",
+            "fi-FI": "Ruudukko (keltainen)",
+            "hu-HU": "Rács (sárga)",
+            "it-IT": "Griglia (giallo)",
+            "ko-KR": "격자 (노랑)",
+            "pl-PL": "Siatka (żółty)",
+            "sv-SE": "Nät (gul)",
+            "tr-TR": "Izgara (sarı)",
+            "zh-CN": "网格 (黄)",
+            "zh-TW": "網格 (黃色)"
         }
     }
 }
