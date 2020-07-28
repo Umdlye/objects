@@ -18,7 +18,21 @@
             "nl-NL": "Rotswand",
             "pt-BR": "Pedra",
             "ja-JP": "石",
-            "fr-FR": "Roche"
+            "fr-FR": "Roche",
+            "ar-EG": "صخر",
+            "ca-ES": "Roca",
+            "cs-CZ": "Kámen",
+            "da-DK": "Sten",
+            "es-ES": "Roca",
+            "fi-FI": "Kallio",
+            "hu-HU": "Kavics",
+            "it-IT": "Rocce",
+            "ko-KR": "바위",
+            "pl-PL": "Skała",
+            "sv-SE": "Sten",
+            "tr-TR": "Taş",
+            "zh-CN": "石地",
+            "zh-TW": "石地"
         }
     }
 }
