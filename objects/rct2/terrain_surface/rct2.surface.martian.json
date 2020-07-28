@@ -21,7 +21,20 @@
             "nl-NL": "Buitenaards",
             "pt-BR": "Marciana",
             "ja-JP": "火星",
-            "fr-FR": "Martien"
+            "fr-FR": "Martien",
+            "ca-ES": "Marcià",
+            "cs-CZ": "Marťan",
+            "da-DK": "Marsmand",
+            "es-ES": "Marte",
+            "fi-FI": "Marssilainen",
+            "hu-HU": "Marsi",
+            "it-IT": "Marziano",
+            "ko-KR": "화성",
+            "pl-PL": "Marsjańska",
+            "sv-SE": "Utomjordisk",
+            "tr-TR": "Marslı",
+            "zh-CN": "火星",
+            "zh-TW": "火星"
         }
     }
 }
