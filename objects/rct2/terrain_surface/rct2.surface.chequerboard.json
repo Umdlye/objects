@@ -29,7 +29,19 @@
             "nl-NL": "Schaakbord",
             "pt-BR": "Tabuleiro de xadrez",
             "ja-JP": "チェスボード",
-            "fr-FR": "Échiquier"
+            "fr-FR": "Échiquier",
+            "ca-ES": "Tauler d'escacs",
+            "cs-CZ": "Šachovnice",
+            "da-DK": "Skakbræt",
+            "es-ES": "Ajedrez",
+            "fi-FI": "Shakkilauta",
+            "hu-HU": "Sakktábla",
+            "ko-KR": "체스판",
+            "pl-PL": "Szachownica",
+            "sv-SE": "Schackbräde",
+            "tr-TR": "Dama tahtası",
+            "zh-CN": "棋盘",
+            "zh-TW": "棋盤"
         }
     }
 }
