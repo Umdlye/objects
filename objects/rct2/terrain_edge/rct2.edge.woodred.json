@@ -18,7 +18,21 @@
             "nl-NL": "Rode houten palen",
             "pt-BR": "Madeira (vermelha)",
             "ja-JP": "木 (赤)",
-            "fr-FR": "Bois (rouge)"
+            "fr-FR": "Bois (rouge)",
+            "ar-EG": "خشب (أحمر)",
+            "ca-ES": "Fusta (vermella)",
+            "cs-CZ": "Dřevo (červené)",
+            "da-DK": "Træ (rød)",
+            "es-ES": "Madera (roja)",
+            "fi-FI": "Puu (punainen)",
+            "hu-HU": "Homok (sötét)",
+            "it-IT": "Legno (rosso)",
+            "ko-KR": "나무 (붉은색)",
+            "pl-PL": "Drewno (czerwone)",
+            "sv-SE": "Trä (rött)",
+            "tr-TR": "Ahşap (kırmızı)",
+            "zh-CN": "森林 (红)",
+            "zh-TW": "木地 (紅色)"
         }
     }
 }
