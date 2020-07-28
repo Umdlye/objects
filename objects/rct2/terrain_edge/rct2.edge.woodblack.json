@@ -18,7 +18,21 @@
             "nl-NL": "Zwarte houten palen",
             "pt-BR": "Madeira (preta)",
             "ja-JP": "木 (黒)",
-            "fr-FR": "Bois (noir)"
+            "fr-FR": "Bois (noir)",
+            "ar-EG": "خشب (أسمر)",
+            "ca-ES": "Fusta (negra)",
+            "cs-CZ": "Dřevo (černé)",
+            "da-DK": "Træ (sort)",
+            "es-ES": "Madera (negra)",
+            "fi-FI": "Puu (musta)",
+            "hu-HU": "Fa (fekete)",
+            "it-IT": "Legno (nero)",
+            "ko-KR": "나무 (검은색)",
+            "pl-PL": "Drewno (czarne)",
+            "sv-SE": "Trä (svart)",
+            "tr-TR": "Ahşap (siyah)",
+            "zh-CN": "森林 (黑)",
+            "zh-TW": "木地 (黑色)"
         }
     }
 }
