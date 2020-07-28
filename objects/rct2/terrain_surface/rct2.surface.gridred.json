@@ -20,7 +20,20 @@
             "nl-NL": "Rood raster",
             "pt-BR": "Malha (vermelha)",
             "ja-JP": "グリッド (赤)",
-            "fr-FR": "Grille (rouge)"
+            "fr-FR": "Grille (rouge)",
+            "ca-ES": "Quadrícula (vermella)",
+            "cs-CZ": "Mřížka (červená)",
+            "da-DK": "Gitter (rød)",
+            "es-ES": "Reja (rojo)",
+            "fi-FI": "Ruudukko (punainen)",
+            "hu-HU": "Rács (piros)",
+            "it-IT": "Griglia (rosso)",
+            "ko-KR": "격자 (빨강)",
+            "pl-PL": "Siatka (czerwony)",
+            "sv-SE": "Nät (röd)",
+            "tr-TR": "Izgara (kırmızı)",
+            "zh-CN": "网格 (红)",
+            "zh-TW": "網格 (紅色)"
         }
     }
 }
