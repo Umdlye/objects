@@ -22,7 +22,19 @@
             "nl-NL": "Kluiten gras",
             "pt-BR": "Moitas de grama",
             "ja-JP": "草の塊",
-            "fr-FR": "Touffes d'herbe"
+            "fr-FR": "Touffes d'herbe",
+            "ca-ES": "Mates d'herba",
+            "cs-CZ": "Drny",
+            "da-DK": "Græsklumper",
+            "es-ES": "Hierba",
+            "fi-FI": "Ruohokasoja",
+            "hu-HU": "Fűcsomók",
+            "ko-KR": "자란 잔디",
+            "pl-PL": "Kępy trawy",
+            "sv-SE": "Gräsklumpar",
+            "tr-TR": "Çim kümeleri",
+            "zh-CN": "草丛",
+            "zh-TW": "雜草叢生草地"
         }
     }
 }
