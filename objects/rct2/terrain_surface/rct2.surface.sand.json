@@ -22,7 +22,22 @@
             "nl-NL": "Zand",
             "pt-BR": "Areia",
             "ja-JP": "砂",
-            "fr-FR": "Sable"
+            "fr-FR": "Sable",
+            "ar-EG": "رمل",
+            "ca-ES": "Sorra",
+            "cs-CZ": "Písek",
+            "da-DK": "Sand",
+            "es-ES": "Arena",
+            "fi-FI": "Hiekka",
+            "hu-HU": "Homok",
+            "it-IT": "Sabbia",
+            "ja-JP": "砂",
+            "ko-KR": "모래",
+            "pl-PL": "Piach",
+            "sv-SE": "Sand",
+            "tr-TR": "Kum",
+            "zh-CN": "沙地",
+            "zh-TW": "沙地"
         }
     }
 }
