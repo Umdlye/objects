@@ -18,7 +18,21 @@
             "nl-NL": "IJs",
             "pt-BR": "Gelo",
             "fr-FR": "Glace",
-            "ja-JP": "氷"
+            "ja-JP": "氷",
+            "ar-EG": "ثلج",
+            "ca-ES": "Gel",
+            "cs-CZ": "Led",
+            "da-DK": "Is",
+            "es-ES": "Hielo",
+            "fi-FI": "Jää",
+            "hu-HU": "Jég",
+            "it-IT": "Ghiaccio",
+            "ko-KR": "눈",
+            "pl-PL": "Lód",
+            "sv-SE": "Is",
+            "tr-TR": "Buz",
+            "zh-CN": "雪地",
+            "zh-TW": "雪地"
         }
     }
 }
