@@ -60,7 +60,22 @@
             "nl-NL": "Gras",
             "pt-BR": "Grama",
             "ja-JP": "草",
-            "fr-FR": "Herbe"
+            "fr-FR": "Herbe",
+            "ar-EG": "عشب",
+            "ca-ES": "Gespa",
+            "cs-CZ": "Tráva",
+            "da-DK": "Græs",
+            "es-ES": "Césped",
+            "fi-FI": "Nurmikko",
+            "hu-HU": "Fű",
+            "it-IT": "Erba",
+            "ja-JP": "草",
+            "ko-KR": "잔디",
+            "pl-PL": "Trawa",
+            "sv-SE": "Gräs",
+            "tr-TR": "Çim",
+            "zh-CN": "草地",
+            "zh-TW": "草地"
         }
     }
 }
