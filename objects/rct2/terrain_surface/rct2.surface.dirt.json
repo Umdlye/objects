@@ -22,7 +22,22 @@
             "nl-NL": "Modder",
             "pt-BR": "Sujeira",
             "ja-JP": "泥",
-            "fr-FR": "Boue"
+            "fr-FR": "Boue",
+            "ar-EG": "تراب",
+            "ca-ES": "Terra",
+            "cs-CZ": "Hlína",
+            "da-DK": "Jord",
+            "es-ES": "Tierra",
+            "fi-FI": "Pöly",
+            "hu-HU": "Föld",
+            "it-IT": "Sporco",
+            "ja-JP": "土",
+            "ko-KR": "진흙",
+            "pl-PL": "Ziemia",
+            "sv-SE": "Jord",
+            "tr-TR": "Çamur",
+            "zh-CN": "泥地",
+            "zh-TW": "泥地"
         }
     }
 }
