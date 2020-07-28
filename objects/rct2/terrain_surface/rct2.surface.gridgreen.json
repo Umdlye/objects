@@ -20,7 +20,20 @@
             "nl-NL": "Groen raster",
             "pt-BR": "Malha (verde)",
             "ja-JP": "グリッド (緑)",
-            "fr-FR": "Grille (vert)"
+            "fr-FR": "Grille (vert)",
+            "ca-ES": "Quadrícula (verda)",
+            "cs-CZ": "Mřížka (zelená)",
+            "da-DK": "Gitter (grøn)",
+            "es-ES": "Reja (verde)",
+            "fi-FI": "Ruudukko (vihreä)",
+            "hu-HU": "Rács (zöld)",
+            "it-IT": "Griglia (verde)",
+            "ko-KR": "격자 (처럭)",
+            "pl-PL": "Siatka (zielony)",
+            "sv-SE": "Nät (grön)",
+            "tr-TR": "Izgara (yeşil)",
+            "zh-CN": "网格 (绿)",
+            "zh-TW": "網格 (綠色)"
         }
     }
 }
